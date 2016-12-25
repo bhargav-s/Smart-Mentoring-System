@@ -35,8 +35,8 @@ window.location.href='forgot.php';
 			$mail->SMTPSecure = "tls";
 			$mail->Host = "smtp.gmail.com";
 			$mail->port = 587;
-			$mail->Username = "computer.hardware.online@gmail.com";
-			$mail->Password = "deepeshcha";
+			$mail->Username = "Email";
+			$mail->Password = "Password";
 			//$mail->SMTPDebug = 2;
 
 		
